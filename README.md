@@ -25,10 +25,25 @@ Acesse a pasta do projeto:
 ```bash
 cd min_app_with_reactjs_and_webpack
 ```
+
+Para iniciá-lo, siga os passos abaixo:
+```bash
+# Instalar as dependências
+yarn
+
+# Iniciar o projeto
+yarn dev
+```
 ## Comandos úteis
 
 ```bash
 # Verificar o funcionamento da compilação via Babel
 # O código compilado será enviado para o arquivo "./dist/bundle.js"
 yarn bundle
+```
+
+```bash
+# Gerar a versão otimizada do código para o ambiente de Produção
+# O código otimizado será enviado para o diretório "./dist"
+yarn build
 ```
