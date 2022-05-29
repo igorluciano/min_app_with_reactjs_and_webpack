@@ -1,4 +1,4 @@
-# Min App with ReactJS anda Webpack
+# Min App with ReactJS and Webpack
 
 ## Sobre
 
